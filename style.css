@@ -1,0 +1,10 @@
+body{
+    background-color:pink;
+}
+span.desc{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
+}
+span.direction{
+    color: #cc0000;
+}
